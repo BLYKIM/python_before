@@ -77,5 +77,5 @@ print(b[3][3])
 b[3][3] = 0
 print(b)
 '''
-b = '1200'
-print()
+a = 162 % 192
+print(a)
